@@ -1,2 +1,2 @@
 # Sum-two-numbers
-Enter two integer numbers and get their sum. 
+This C++ Program take two integer numbers and get their sum. 
